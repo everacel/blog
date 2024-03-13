@@ -1,27 +1,26 @@
 #header
-name: Hello
-description: simple & clean
-favicon: /fav.png
+name: Everacel
+description: 
+favicon: /favicon.ico
 ga: ''
 
 #nav
 nav:
     HOME: /
-    ARCHIVE: /archives/
+    # ARCHIVE: /archives/
     # GALLERY:  /gallery/
     # ABOUT: /about/
 
 #post
 excerpt_link: Read More
 
-
 #about me
-aboutMeImg: /about_me.jpg
+# aboutMeImg: /about_me.jpg
 
-github: https://github.com/yiliashaw
-twitter: https://twitter.com/YiliaShaw
-weibo: http://weibo.com/kathleenxiao
+# github: https://github.com/yiliashaw
+# twitter: https://twitter.com/YiliaShaw
+# weibo: http://weibo.com/kathleenxiao
 
 #copyright
-themeLink: https://github.com/yiliashaw/hexo-theme-prince
+# themeLink: https://github.com/yiliashaw/hexo-theme-prince
 
