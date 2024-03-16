@@ -47,7 +47,7 @@ tags:
 
 ---
 
-## 3. <span id="3">Everacel Co., Ltd.([リンク](https://www.everacel.com))を選ぶ理由とは何か？</span>
+## 3. <span id="3">[Everacel Co., Ltd.](https://www.everacel.com)を選ぶ理由とは何か？</span>
 ![插图](/images/1-8.png)
 ### Everacel Co., Ltd.を選ぶ８つのポイント
 
