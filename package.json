@@ -5,11 +5,12 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "wrangler pages deploy ./public",
+    "sync": "wrangler pages download config",
     "server": "hexo server"
   },
   "hexo": {
-    "version": "7.1.1"
+    "version": "7.3.0"
   },
   "dependencies": {
     "hexo": "^7.0.0",
@@ -23,5 +24,17 @@
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0"
+  },
+  "engines": {
+    "node": "20",
+    "pnpm": ">=9"
+  },
+  "volta": {
+    "node": "20.15.1",
+    "pnpm": "9.5.0"
+  },
+  "packageManager": "pnpm@9.5.0",
+  "devDependencies": {
+    "wrangler": "^3.101.0"
   }
 }
